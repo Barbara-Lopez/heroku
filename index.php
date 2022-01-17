@@ -1,3 +1,3 @@
 <?php
-echo phpinfo();
+echo "<h1>Bienbenido</h1>";
 ?>
